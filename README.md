@@ -10,4 +10,4 @@ Using Scrapy, an amazing framework for webscraping projects.
 * To run the crawler use: `scrapy crawl real` (real is the name of the spider)
 * To store results in csv files: `scrapy crawl real -o nameoffile.csv`
 
-I stored the results in a MongoDB database just for the hell of it! :stuck_out_tongue_winking_eye:
+I stored the results in a MongoDB database just for the hell of it! :woman_shrugging:
